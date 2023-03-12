@@ -32,7 +32,7 @@ This project requires Python 3.x and the following Python libraries:
 
 #### 1. Home Page
 
-![Screenshot from 2020-05-12 22-57-43](https://user-images.githubusercontent.com/34116562/81772729-39c76c80-9504-11ea-85e9-e5f45db2cbf6.png)
+![image](https://user-images.githubusercontent.com/121203927/224565306-c209e3fa-8b7e-4e37-ad27-b94a7ece7412.png)
 ![Screenshot from 2020-05-12 22-57-48](https://user-images.githubusercontent.com/34116562/81772741-3d5af380-9504-11ea-9ce3-afc7e78dddda.png)
 ![Screenshot from 2020-05-12 22-57-53](https://user-images.githubusercontent.com/34116562/81772747-41871100-9504-11ea-942b-38846c7d49bf.png)
 ![Screenshot from 2020-05-12 22-58-21](https://user-images.githubusercontent.com/34116562/81772751-451a9800-9504-11ea-9fe6-76bae5341ad4.png)
