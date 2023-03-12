@@ -38,31 +38,30 @@ This project requires Python 3.x and the following Python libraries:
 
 #### 2. Classify Messages Page
 
-INPUT- Please provide healthcare equipments and medicines (EXAMPLE-1)
+INPUT- Its raining heavily since yesterday here 
 
-![Screenshot from 2020-05-12 22-58-46](https://user-images.githubusercontent.com/34116562/81772761-4c41a600-9504-11ea-88af-90ecd9eb4ff5.png)
-
-PREDICTED CLASSES- 
-
-![Screenshot from 2020-05-12 22-58-56](https://user-images.githubusercontent.com/34116562/81772878-9b87d680-9504-11ea-8190-b9e4c8ae9e5b.png)
-![Screenshot from 2020-05-12 22-58-59](https://user-images.githubusercontent.com/34116562/81772887-9fb3f400-9504-11ea-8ed5-aae7f9d51e2d.png)
-
-INPUT- Its raining heavily since yesterday here (EXAMPLE-2)
-
-![Screenshot from 2020-05-12 22-59-10](https://user-images.githubusercontent.com/34116562/81773045-13560100-9505-11ea-8a95-f0992ec2236e.png)
+![image](https://user-images.githubusercontent.com/121203927/224565627-4a3b07d0-dc0b-472c-9004-9f4dff6c3a9b.png)
 
 PREDICTED CLASSES- 
 
-![Screenshot from 2020-05-12 22-59-18](https://user-images.githubusercontent.com/34116562/81773048-14872e00-9505-11ea-874f-b5fa49ac5d28.png)
+![image](https://user-images.githubusercontent.com/121203927/224565642-05be54e1-f55a-46bb-8ab5-ad2e9a53eac9.png)
 
+INPUT- Please provide healthcare equipments and medicines
 
-INPUT- Please help us with food and water (EXAMPLE-3)
+![image](https://user-images.githubusercontent.com/121203927/224565552-55fecf97-e3c6-4c19-8361-680f5fca7cf3.png)
 
-![Screenshot from 2020-05-12 23-00-55](https://user-images.githubusercontent.com/34116562/81773447-e3f3c400-9505-11ea-966a-e83099565f2a.png)
+PREDICTED CLASSES- 
+
+![image](https://user-images.githubusercontent.com/121203927/224565574-efafe400-57ff-4b8e-a287-70c5429ca06d.png)
+![image](https://user-images.githubusercontent.com/121203927/224565594-54859a7e-decd-4f1f-a3d4-fba595ec7984.png)
+
+INPUT- Please help us with food and water 
+
+![image](https://user-images.githubusercontent.com/121203927/224565760-0373a44d-49d6-4f45-b042-1f331cda8dff.png)
 
 
 PREDICTED CLASSES- 
 
-![Screenshot from 2020-05-12 23-00-59](https://user-images.githubusercontent.com/34116562/81773451-e6eeb480-9505-11ea-93c3-f44885c83960.png)
+![image](https://user-images.githubusercontent.com/121203927/224565775-cfc85dcb-c2eb-4e67-8578-3b058af9d694.png)
 
-![Screenshot from 2020-05-12 23-01-03](https://user-images.githubusercontent.com/34116562/81773456-e9e9a500-9505-11ea-80b1-abd9c49830c2.png)
+![image](https://user-images.githubusercontent.com/121203927/224565783-beb05b69-758c-48b9-9044-5452b410b466.png)
