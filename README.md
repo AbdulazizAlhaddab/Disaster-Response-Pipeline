@@ -19,6 +19,28 @@ Data includes 2 csv files:
 1. disaster_messages.csv: Messages data.
 2. disaster_categories.csv: Disaster categories of messages.
 
+### Folder Structure:
+
+* app
+    * | - templates
+        * |- master.html 
+        * |- go.html 
+    * |- run.py 
+
+* data
+   * |- disaster_categories.csv 
+   * |- ML Pipeline Preparation.ipynb
+   * |- ETL Pipeline Preparation.ipynb
+   * |- disaster_messages.csv 
+   * |- process_data.py
+   * |- Disaster_Response.db 
+   
+
+   * |- train_classifier.py
+   * |- classifier.pkl 
+
+    * |- README.md
+
 ### Installation:
 
 This project requires Python 3.x and the following Python libraries:
@@ -27,6 +49,7 @@ This project requires Python 3.x and the following Python libraries:
 * Natural Language Process Libraries: NLTK
 * SQLlite Database Libraqries: SQLalchemy
 * Web App and Data Visualization: Flask, Plotly
+
 
 ### Instructions:
 
