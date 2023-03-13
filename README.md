@@ -33,7 +33,7 @@ This project requires Python 3.x and the following Python libraries:
 1. Clone this repository
 
 ```
-git clone git@github.com:prateeksawhney97/Disaster-Response-Pipeline.git
+git clone git@github.com:AbdulazizAlhaddab/Disaster-Response-Pipeline.git
 ```
 
 2. Run the following commands in the project's root directory to set up your database and model.
